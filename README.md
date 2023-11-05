@@ -1,6 +1,5 @@
 # GithubActions_Dockerhub
 
-Sure, I can provide you with the necessary files and codes.
 
 1. **Dockerfile**: This is a basic Dockerfile that uses an existing Node.js image from Docker Hub and copies your application into the image. Please modify it according to your needs.
 
